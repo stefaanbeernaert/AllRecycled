@@ -1,0 +1,9 @@
+{
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${UICop}"
+    ],
+    "al.ruleSetPath": "./custom_ruleset.json",
+    "al.defaultLaunchConfigurationName": "Thinkme - Sandbox 2020 Wave 1"
+}
