@@ -10,11 +10,13 @@ table 50102 "AXT Registration Picture"
         {
             Caption = 'Entry No.';
             DataClassification = SystemMetadata;
+            AutoIncrement = true;
         }
-        field(2; "Weighing Registration Code"; Code[20])
+        field(2; "Weighing Registration No."; Code[20])
         {
-            Caption = 'Weighing Registration Code';
+            Caption = 'Weighing Registration No.';
             DataClassification = SystemMetadata;
+            TableRelation = "AXT Weighing Registration"."No.";
         }
         field(3; Picture; MediaSet)
         {
@@ -29,4 +31,16 @@ table 50102 "AXT Registration Picture"
             Clustered = true;
         }
     }
+    procedure ImportPicture()
+    var
+        FileName: Text;
+        PictureStream: InStream;
+        DialogCaptionQst: Label 'Select a picture to upload';
+    begin
+        if UploadIntoStream(DialogCaptionQst, '', '', FileName, PictureStream) then begin
+            Picture.ImportStream(PictureStream, FileName);
+            Modify(true);
+        end;
+
+    end;
 }

@@ -6,6 +6,7 @@ page 50100 "AXT Weighing Registration List"
     SourceTable = "AXT Weighing Registration";
     UsageCategory = Lists;
     Description = '20.0.0.0';
+    PromotedActionCategories = 'New,processs,Report,Extras';
 
     Editable = false;
     CardPageId = "AXT Weighing Registration Card"; // koppelt de list naar de card pagina.
@@ -86,10 +87,27 @@ page 50100 "AXT Weighing Registration List"
 
             }
         }
+        area(FactBoxes)
+        {
+            systempart(Notes; Notes)
+            {
+                ApplicationArea = All;
+
+            }
+            systempart(Links; Links)
+            {
+                ApplicationArea = ALl;
+            }
+            part(CustomerFactbox; "Customer Details FactBox")
+            {
+                ApplicationArea = All;
+                SubPageLink = "No." = field("Customer No.");
+            }
+        }
     }
     actions
     {
-        area(Creation)
+        area(Processing)
         {
             action("Create New In Registration")
             {
@@ -131,32 +149,61 @@ page 50100 "AXT Weighing Registration List"
 
                 end;
             }
-            action("Process Weighing Registration")
+            group(Extras)
             {
-                ApplicationArea = All;
-                Caption = 'Process Weighing Registration';
-                ToolTip = ' ';
-                Image = Process;
-                Promoted = true;
-                PromotedCategory = Process;
-                PromotedIsBig = true;
-                // PromotedOnly = true;
-                trigger OnAction()
-                var
-                    WeighingRegistrations: Record "AXT Weighing Registration";
-                    WeighingRegManagement: codeunit "AXT Weighing Reg. Management";
-                begin
-                    // 1. get selected weighing registrations
-                    CurrPage.SetSelectionFilter(WeighingRegistrations); // neem alle geselecteerde
+                Caption = 'Extras';
+                action("Print Weighing Receipt")
+                {
+                    ApplicationArea = All;
+                    Caption = 'Print';
+                    ToolTip = ' ';
+                    Image = Print;
+                    Promoted = true;
+                    PromotedCategory = Category4;
+                    PromotedIsBig = true;
+                    // PromotedOnly = true;
+                    trigger OnAction()
+                    var
+                        weighRegistration: Record "AXT Weighing Registration";
+                    begin
+                        weighRegistration.Reset();
+                        weighRegistration.SetRange("No.", rec."No.");
+                        weighRegistration.FindFirst();
+                        Report.run(Report::"AXT Weighing Receipt", true, false, weighRegistration);
+                    end;
 
 
-                    // 2. codeunit aanspreken and provide sleected weighing registration
-                    WeighingRegManagement.ProcessToInvoice(WeighingRegistrations);
+
+
+                }
+                action("Process Weighing Registration")
+                {
+                    ApplicationArea = All;
+                    Caption = 'Process Weighing Registration';
+                    ToolTip = ' ';
+                    Image = Process;
+                    Promoted = true;
+                    PromotedCategory = Category4;
+                    PromotedIsBig = true;
+                    // PromotedOnly = true;
+                    trigger OnAction()
+                    var
+                        WeighingRegistrations: Record "AXT Weighing Registration";
+                        WeighingRegManagement: codeunit "AXT Weighing Reg. Management";
+                    begin
+                        // 1. get selected weighing registrations
+                        CurrPage.SetSelectionFilter(WeighingRegistrations); // neem alle geselecteerde
+
+
+                        // 2. codeunit aanspreken and provide sleected weighing registration
+                        WeighingRegManagement.ProcessToInvoice(WeighingRegistrations);
 
 
 
-                end;
+                    end;
+                }
             }
+
         }
     }
 }

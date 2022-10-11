@@ -77,5 +77,16 @@ page 50101 "AXT Weighing Registration Card"
                 }
             }
         }
+        area(FactBoxes)
+        {
+            part("Registration Picture Factbox"; "AXT Picture Factbox")
+            {
+                ApplicationArea = all;
+                SubPageLink = "Weighing Registration No." = field("No.");
+
+
+            }
+        }
     }
+
 }

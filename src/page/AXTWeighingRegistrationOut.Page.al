@@ -83,5 +83,46 @@ page 50103 "AXT Weighing Registration Out"
                 }
             }
         }
+        area(FactBoxes)
+        {
+            part("Registration Picture Factbox"; "AXT Picture Factbox")
+            {
+                ApplicationArea = all;
+                SubPageLink = "Weighing Registration No." = field("No.");
+
+
+            }
+        }
     }
+    actions
+    {
+        area(Processing)
+        {
+            action("Import Picture")
+            {
+                ApplicationArea = all;
+                Caption = 'Import Picture';
+                Tooltip = 'Import Picture';
+                Image = Camera;
+                Promoted = true;
+                PromotedCategory = Process;
+                PromotedIsBig = true;
+                PromotedOnly = true;
+
+                trigger OnAction()
+                var
+                    RegistationPicture: Record "AXT Registration Picture";
+                begin
+                    RegistationPicture.Init();
+                    RegistationPicture.Validate("Weighing Registration No.", rec."No.");
+                    RegistationPicture.Insert(true);
+
+                    RegistationPicture.importPicture();
+
+
+                end;
+            }
+        }
+    }
+
 }

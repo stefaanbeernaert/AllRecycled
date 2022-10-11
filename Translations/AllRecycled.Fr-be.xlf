@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="Fr-be" original="AllRecycled.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2092883658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Material Type</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Material Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2092883658 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>[NAB: SUGGESTION]Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Material Type - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2092883658 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>[NAB: SUGGESTION]Description</target>
+          <target>[NAB: SUGGESTION]Désignation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Material Type - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2092883658 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>[NAB: SUGGESTION]N° article</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Material Type - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2092883658 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>[NAB: SUGGESTION]Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Material Type - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2092883658 - Field 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay,Refund</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Material Type - Field Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2933082412 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rezgistration Picture</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Registration Picture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2933082412 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>[NAB: SUGGESTION]N° écriture</target>
+          <target>[NAB: SUGGESTION]N° séquence</target>
+          <target>[NAB: SUGGESTION]N° séquence </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Registration Picture - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2933082412 - Field 1594621544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <target>[NAB: SUGGESTION]Image</target>
+          <target>[NAB: SUGGESTION]illustration</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Registration Picture - Field Picture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2933082412 - Field 2916983156 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weighing Registration Code</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Registration Picture - Field Weighing Registration Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2715295276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weighing Registration</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Weighing Registration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2715295276 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <target>[NAB: SUGGESTION]Nom client</target>
+          <target>[NAB: SUGGESTION]Nom du client</target>
+          <target>[NAB: SUGGESTION]Nom du débiteur</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Weighing Registration - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2715295276 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>[NAB: SUGGESTION]N° client</target>
+          <target>[NAB: SUGGESTION]N° de client</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Weighing Registration - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2715295276 - Field 1387240579 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver Name</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Weighing Registration - Field Driver Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2715295276 - Field 3605116025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incoming Date Time</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Weighing Registration - Field Incoming Date Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2715295276 - Field 3410129392 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incoming Gross Weight</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Weighing Registration - Field Incoming Gross Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2715295276 - Field 3723394249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Licence Plate</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Weighing Registration - Field Licence Plate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2715295276 - Field 3706094530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Material Type Code</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Weighing Registration - Field Material Type Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2715295276 - Field 3088522385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Weight</source>
+          <target>[NAB: SUGGESTION]Poids net</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Weighing Registration - Field Net Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2715295276 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>[NAB: SUGGESTION]N°</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Weighing Registration - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2715295276 - Field 2114708593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outgoing Date Time</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Weighing Registration - Field Outgoing Date Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2715295276 - Field 2692791928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outgoing Gross Weight</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Weighing Registration - Field Outgoing Gross Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2715295276 - Field 863923670 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project No.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Weighing Registration - Field Project No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2715295276 - Field 382212580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weighing Status</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AXT Weighing Registration - Field Weighing Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3234441816 - Method 895757259 - NamedType 857054006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>#1 of #2</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AXT Weighing Reg. Management - Method ProcessToInvoice - NamedType DialogLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 769460599 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Material Types</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Material Types - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 769460599 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Material Types - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 769460599 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Material Types - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 769460599 - Control 568743302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item No. field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Material Types - Control Item No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 769460599 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Type field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Material Types - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 12367832 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weighing Registration Card</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 12367832 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer No. field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Card - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 12367832 - Control 1387240579 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Driver Name field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Card - Control Driver Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 12367832 - Control 3605116025 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Incoming Date Time field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Card - Control Incoming Date Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 12367832 - Control 3410129392 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Incoming Gross Weight field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Card - Control Incoming Gross Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 12367832 - Control 3723394249 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Licence Plate field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Card - Control Licence Plate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 12367832 - Control 3706094530 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Material Type Code field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Card - Control Material Type Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 12367832 - Control 3088522385 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Net weight field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Card - Control Net Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 12367832 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 12367832 - Control 2114708593 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Outgoing Date Time field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Card - Control Outgoing Date Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 12367832 - Control 2692791928 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Outgoing Gross Weight field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Card - Control Outgoing Gross Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 12367832 - Control 863923670 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Project No. field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Card - Control Project No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 12367832 - Control 382212580 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Weighing Status field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Card - Control Weighing Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3757267073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weighing Registration IN</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration IN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3757267073 - Control 1171137197 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Speciefies the name</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration IN - Control Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3757267073 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer No field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration IN - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3757267073 - Control 1387240579 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Driver Name field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration IN - Control Driver Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3757267073 - Control 3605116025 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Incoming Date Time field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration IN - Control Incoming Date Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3757267073 - Control 3410129392 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Incoming Gross weight field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration IN - Control Incoming Gross Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3757267073 - Control 3723394249 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Licence Plate field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration IN - Control Licence Plate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3757267073 - Control 3706094530 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Material Type Code field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration IN - Control Material Type Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3757267073 - Control 3088522385 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Net weight field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration IN - Control Net Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3757267073 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration IN - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3757267073 - Control 863923670 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Project No. field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration IN - Control Project No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3757267073 - Control 382212580 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Weighing Status field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration IN - Control Weighing Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,processs,Report,Extras</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weighing Registration List</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Control 1171137197 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the customer Name field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Control Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer No. field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Control 1387240579 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Driver Name field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Control Driver Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Control 3605116025 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Incoming Date Time field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Control Incoming Date Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Control 3410129392 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Incoming Gross Weight field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Control Incoming Gross Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Control 3723394249 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Licence Plate field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Control Licence Plate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Control 3706094530 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Material Type Code field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Control Material Type Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Control 3088522385 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Net weight field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Control Net Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Control 2114708593 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Outgoing Date Time field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Control Outgoing Date Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Control 2692791928 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Outgoing Gross Weight field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Control Outgoing Gross Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Control 863923670 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Project No. field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Control Project No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Control 382212580 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Weighing Status field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Control Weighing Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Action 3735349754 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <target>[NAB: REVIEW]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Action Create New In Registration - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Action 3735349754 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create New In Registration</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Action Create New In Registration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Action 1828765273 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <target>[NAB: REVIEW]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Action Create New Out Registration - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Action 1828765273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Out Registration</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Action Create New Out Registration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Action 20666131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extras</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Action Extras - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Action 448834363 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <target>[NAB: REVIEW]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Action Print Weighing Receipt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Action 448834363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print</source>
+          <target>[NAB: SUGGESTION]Imprimer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Action Print Weighing Receipt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Action 786687978 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <target>[NAB: REVIEW]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Action Process Weighing Registration - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Action 786687978 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Weighing Registration</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Action Process Weighing Registration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1680417594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weighing Registration Out</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1680417594 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer No field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1680417594 - Control 1387240579 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Driver Name field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Control Driver Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1680417594 - Control 3605116025 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Incoming Date Time field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Control Incoming Date Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1680417594 - Control 3410129392 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Incoming Gross weight field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Control Incoming Gross Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1680417594 - Control 3723394249 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Licence Plate field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Control Licence Plate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1680417594 - Control 3706094530 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Material Type Code field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Control Material Type Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1680417594 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1680417594 - Control 863923670 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Project No. field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Control Project No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1680417594 - Control 3088522385 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Net weight field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Control Net Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1680417594 - Control 2114708593 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Outgoing Date Time field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Control Outgoing Date Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1680417594 - Control 2692791928 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Outgoing Gross Weight field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Control Outgoing Gross Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1680417594 - Control 382212580 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Weighing Status field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Control Weighing Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 962544175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weighing Receipt</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AXT Weighing Receipt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 962544175 - ReportLabel 2248464876" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver Info:</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AXT Weighing Receipt - ReportLabel DriverInfo</note>
+        </trans-unit>
+        <trans-unit id="Report 962544175 - ReportLabel 2199882250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incoming:</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AXT Weighing Receipt - ReportLabel Incoming</note>
+        </trans-unit>
+        <trans-unit id="Report 962544175 - ReportLabel 3123527090" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Info</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AXT Weighing Receipt - ReportLabel Info</note>
+        </trans-unit>
+        <trans-unit id="Report 962544175 - ReportLabel 423663968" size-unit="char" translate="yes" xml:space="preserve">
+          <source>kg</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AXT Weighing Receipt - ReportLabel kg</note>
+        </trans-unit>
+        <trans-unit id="Report 962544175 - ReportLabel 331094305" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Weight:</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AXT Weighing Receipt - ReportLabel NetWeight</note>
+        </trans-unit>
+        <trans-unit id="Report 962544175 - ReportLabel 3993926658" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outgoing:</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AXT Weighing Receipt - ReportLabel Outgoing</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4162068026 - Control 3441272157 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
+          <source> </source>
+          <target>[NAB: REVIEW]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AXT Company Information - Control AXT Weighing Reg. Nos. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4162068026 - Field 3441272157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Weighing Registation No. Series</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AXT Company Information - Field AXT Weighing Reg. Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1196010287 - EnumValue 1892107998 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <target>[NAB: SUGGESTION]Terminé</target>
+          <target>[NAB: SUGGESTION]Clôturé</target>
+          <target>[NAB: SUGGESTION]Terminée</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AXT Weighing Status - EnumValue CLOSED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1196010287 - EnumValue 4110714865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AXT Weighing Status - EnumValue IN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1196010287 - EnumValue 3092222570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Out</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AXT Weighing Status - EnumValue OUT - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
