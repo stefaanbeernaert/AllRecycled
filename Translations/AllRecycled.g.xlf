@@ -443,6 +443,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Action Process Weighing Registration - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 672819774 - Action 2872625105 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Action show weighing reg - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 672819774 - Action 2872625105 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows Weighing Registration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration List - Action show weighing reg - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1680417594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Weighing Registration Out</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -508,6 +518,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Control Weighing Status - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Page 1680417594 - Action 3916340059 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Action Import Picture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1680417594 - Action 3916340059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AXT Weighing Registration Out - Action Import Picture - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Report 962544175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Weighing Receipt</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -542,6 +562,11 @@
           <source>Outgoing:</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report AXT Weighing Receipt - ReportLabel Outgoing</note>
+        </trans-unit>
+        <trans-unit id="Query 2430156941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weighing Registrations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query AXT Weighing Registrations - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 4162068026 - Control 3441272157 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
           <source> </source>

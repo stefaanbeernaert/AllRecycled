@@ -7,6 +7,7 @@ page 50100 "AXT Weighing Registration List"
     UsageCategory = Lists;
     Description = '20.0.0.0';
     PromotedActionCategories = 'New,processs,Report,Extras';
+    QueryCategory = 'Registrations with customer';
 
     Editable = false;
     CardPageId = "AXT Weighing Registration Card"; // koppelt de list naar de card pagina.
@@ -201,6 +202,49 @@ page 50100 "AXT Weighing Registration List"
 
 
                     end;
+                }
+                action("show weighing reg")
+                {
+                    ApplicationArea = All;
+                    Caption = 'Shows Weighing Registration';
+                    ToolTip = ' ';
+                    Image = Process;
+                    Promoted = true;
+                    PromotedCategory = Category4;
+                    PromotedIsBig = true;
+                    // PromotedOnly = true;
+                    trigger OnAction()
+                    begin
+                        codeunit.run(codeunit::"AXT Weighing Reg.n Overview");
+                    end;
+
+
+
+                }
+                action("call api")
+                {
+                    ApplicationArea = All;
+                    Caption = 'call api';
+                    ToolTip = ' ';
+                    Image = Process;
+                    Promoted = true;
+                    PromotedCategory = Category4;
+                    PromotedIsBig = true;
+                    // PromotedOnly = true;
+                    trigger OnAction()
+                    var
+                        client: HttpClient;
+                        ResMessage: HttpResponseMessage;
+                        Jsontxt: Text;
+                    begin
+                        client.get('http://hp-api.herokuapp.com/api/characters', ResMessage);
+                        if ResMessage.IsSuccessStatusCode() then Error(ResMessage.ReasonPhrase);
+
+                        ResMessage.content.ReadAs(Jsontxt);
+
+                        Message(Jsontxt);
+                    end;
+
                 }
             }
 
